@@ -22,7 +22,11 @@ Aquí iré añadiendo los proyectos más grandes o completos que desarrolle en J
 
 ## Ejercicios
 
-En esta sección se encuentran ejercicios prácticos para reforzar conceptos específicos del lenguaje Java.
+A continuación, la lista de ejercicios prácticos incluidos en este repositorio:
+
+- [Hola Mundo](./HolaMundo)
+
+> Puedes explorar cada carpeta para ver el código y los enunciados.
 
 ## Cómo ejecutar los ejemplos
 
